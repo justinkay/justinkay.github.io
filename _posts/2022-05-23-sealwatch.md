@@ -8,7 +8,7 @@ categories: research
 author: "Justin Kay"
 authors: "<strong>Justin Kay</strong>, Catherine M. Foley, and Tom Hart"
 venue: "Computer Vision for Animal Behavior Tracking and Modeling Workshop at CVPR 2022"
-arxiv:
+arxiv: https://arxiv.org/abs/2205.11398
 slides:
 code:
 website:
