@@ -12,6 +12,6 @@ arxiv: https://arxiv.org/abs/2205.11398
 slides:
 code:
 website:
-poster:
+poster: images/SealWatch_CV4Animals_Poster_v3.pdf
 ---
 A dataset and method for fine-grained (i.e. multiclass) seal counting using noisy volunteer dot annotations collected from the [Zooniverse](https://www.zooniverse.org/projects/cmfoley/seal-watch) citizen science platform.
