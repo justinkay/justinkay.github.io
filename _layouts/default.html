@@ -78,9 +78,12 @@
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
-
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              {% if post.award %}
+              <br>
+              <span style="color:red">&#9734; {{post.award}}</span>
+              {% endif %}
               <br>
               {% if post.website %}
               <a target="_blank" href="{{post.website}}">website</a> /
