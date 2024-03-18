@@ -2,7 +2,7 @@
 layout: post
 title:  "Fine-Grained Counting with Crowd-Sourced Supervision"
 date: 2022-05-23 00:00:00 +00:00
-image: images/seal_raw.png
+image: images/seal_dens.png
 mouseimage: images/seal_dens.png
 categories: research
 author: "Justin Kay"
