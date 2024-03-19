@@ -71,17 +71,16 @@
 
           {% for item in site.data.news %}
           <tr>
-            <td style="padding:2.5%;width:10%;vertical-align:middle;min-width:120px">
-              
+            <td style="padding-left:2.5%;width:8%;vertical-align:middle;min-width:100px">
               <b>{{item.date}}:</b>
-              
             </td>
-            <td style="padding:2.5%;width:90%;vertical-align:middle">
+            <td style="padding-left:2.5%;width:92%;vertical-align:middle">
               {{item.blurb}}
             </td>
           </tr>
           {% endfor %}
         </table>
+        <p></p>
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
