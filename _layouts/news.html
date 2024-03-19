@@ -32,9 +32,9 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr style="padding:0px">
             <td style="padding:2.5%;width:60%;vertical-align:middle">
-              <h4>
+              <h2>
                 Justin Kay – News
-              </h4>
+              </h2>
             </td>
           </tr>
         </table>
@@ -42,7 +42,9 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           {% for item in site.data.news %}
             <tr>
-                <b>{{item.date}}:</b> {{item.blurb}}
+                <td>
+                    <b>{{item.date}}:</b> {{item.blurb}} <br>
+                </td>
             </tr>
           {% endfor %}
         </table>
