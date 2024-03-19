@@ -1,6 +1,6 @@
-- date: 2024-03-18
+- date: 2024-03-19
   blurb: >-
-    We released <a href="https://aldi-daod.github.io/">ALDI</a>! See the accompanying <a href="">preprint</a>, <a href="https://github.com/justinkay/aldi">codebase</a>, and <a href="https://github.com/visipedia/caltech-fish-counting/tree/main/CFC-DAOD">dataset</a>. 
+    We released <a href="https://aldi-daod.github.io/">ALDI</a>! See the accompanying <a href="https://arxiv.org/abs/2403.12029">preprint</a>, <a href="https://github.com/justinkay/aldi">codebase</a>, and <a href="https://github.com/visipedia/caltech-fish-counting/tree/main/CFC-DAOD">dataset</a>. 
 
 - date: 2023-12-16
   blurb: >-
