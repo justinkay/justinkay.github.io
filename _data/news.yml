@@ -1,3 +1,11 @@
+- date: 2025-10-13
+  blurb: >-
+    CODA, our new method for active model selection, accepted as a Highlight at ICCV 2025! Check out the <a href="https://www.arxiv.org/abs/2507.23771">paper</a>, <a href="https://huggingface.co/spaces/justinkay/coda">demo</a>, <a href="https://github.com/justinkay/coda">code</a>, and <a href="https://www.csail.mit.edu/news/3-questions-how-ai-helping-us-monitor-and-support-vulnerable-ecosystems">news coverage from MIT CSAIL</a>.
+
+- date: 2025-06-01
+  blurb: >-
+    Co-organizing the <a href="https://vap.aau.dk/marinevision">Joint Workshop on Marine Vision at ICCV 2025</a>.
+
 - date: 2025-04-01
   blurb: >-
     Co-organizing the <a href="https://cv4ecology.caltech.edu/ai-upskilling-workshop-2025.html">2025 AI upskilling workshop for former US/state environmental scientists</a> with <a href="http://dmorris.net/">Dan Morris</a>, <a href="https://beerys.github.io/">Sara Beery</a>, and <a href="https://eor314.github.io/">Eric Orenstein</a>.
