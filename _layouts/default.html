@@ -136,6 +136,9 @@
               {% if post.slides %}
               <a target="_blank" href="{{post.slides}}">presentation</a> /
               {% endif %}
+              {% if demo %}
+              <a target="_blank" href="{{demo}}">demo</a> /
+              {% endif %}
               <p></p>
               {{ post.excerpt }}
             </td>
